@@ -57,10 +57,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-ESP32-Custom-Tail-Light
+The objective of this project is to create customizable tail light for motorcycles and cars **(!Should not be used on public roads if against traffic laws!)**
 
 
+### To-Do list
+#### Software
+- [x] Added Over The Air (OTA) update functionality.
+- [x] Added webserver for hosting controls.
+- [x] Access Point for easy connectivity. 
+- [ ] Finish all HTML and CSS.
+- [ ] Ability to set your WiFi ssid and password for easier software updates.
+- [ ] Add light flashing when emergency braking.
+- [ ] Add RTC for getting real-time (Datalogging etc)?
+- [ ] [Suggest feature]( https://github.com/JonneSaloranta/ESP32-Custom-Tail-Light/issues)
 
+
+#### Hardware
+- [ ] Make working pcb prototype.
+- [ ] Make pcb clean for production.
 
 ### Built With
 
