@@ -11,7 +11,8 @@
 <br />
 <div align="center">
 
-  <h3 align="center">ESP32 Custom Tail Light</h3>
+  <h2 align="center">ESP32 Custom Tail Light</h2>
+  <img src="https://user-images.githubusercontent.com/72470168/147489803-a5da1db6-ca68-4762-a1a5-a64ccc6cb1c1.png" alt="">
   
   <p align="center">
     <br />
@@ -29,6 +30,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
